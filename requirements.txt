@@ -1,0 +1,4 @@
+apyori==1.1.2
+fastapi==0.110.1
+pandas==2.2.2
+uvicorn==0.29.0
