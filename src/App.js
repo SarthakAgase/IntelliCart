@@ -6,7 +6,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 
 const client = axios.create({
-  baseURL: "http://172.31.0.55:8000/",
+  baseURL: "http://localhost:8000/",
 });
 
 export default function App() {
