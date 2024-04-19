@@ -41,7 +41,7 @@ export default function CartSummary({ products }) {
             </span>
           </h3>
           <h3 style={{ fontSize: "1.2em", margin: "0px" }}>
-            Items in Cart: $
+            Items in Cart:
             <span style={{ fontSize: "1.2em", margin: "0px" }}>
               {itemsInCart}
             </span>
